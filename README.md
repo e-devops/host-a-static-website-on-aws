@@ -1,3 +1,5 @@
+![Alt text](/e-devops-Host_a_Static_Website_on_AWS.png)
+
 # Host a Static Website on AWS
 
 This project demonstrates how to host a static HTML web app on AWS, leveraging a range of AWS resources to ensure security, scalability, and reliability. The website is deployed on EC2 instances within a Virtual Private Cloud (VPC) and utilizes various AWS services to enhance its performance and availability.
